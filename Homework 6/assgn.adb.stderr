@@ -1,0 +1,9 @@
+assgn.adb:5:14: error: missing body for "Init_Array" declared at assgn.ads:7
+assgn.adb:5:14: error: missing body for "Reverse_Bin_Arr" declared at assgn.ads:10
+assgn.adb:5:14: error: missing body for "Print_Bin_Arr" declared at assgn.ads:13
+assgn.adb:5:14: error: missing body for "Int_To_Bin" declared at assgn.ads:16
+assgn.adb:5:14: error: missing body for "Bin_To_Int" declared at assgn.ads:19
+assgn.adb:5:14: error: missing body for "+" declared at assgn.ads:22
+assgn.adb:5:14: error: missing body for "+" declared at assgn.ads:25
+assgn.adb:5:14: error: missing body for "-" declared at assgn.ads:29
+assgn.adb:5:14: error: missing body for "-" declared at assgn.ads:32
